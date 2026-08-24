@@ -3076,13 +3076,13 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 42000,
-                "Cooldown": 3
+                "Cooldown": 1
             },
             {
                 "Price": 60000,
                 "Range": 35,
                 "Damage": 48000,
-                "Cooldown": 3
+                "Cooldown": 1
             },
             {
                 "Price": 72000,
