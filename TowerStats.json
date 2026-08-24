@@ -3063,7 +3063,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://80620866046748",
         "Rarity": "Nightmare",
-        "PlacePrice": 48000,
+        "PlacePrice": 0,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -4715,7 +4715,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://117049302349531",
         "Rarity": "Nightmare",
-        "PlacePrice": 1000,
+        "PlacePrice": 0,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -4760,7 +4760,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://76453000119331",
         "Rarity": "Nightmare",
-        "PlacePrice": 1500,
+        "PlacePrice": 0,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
