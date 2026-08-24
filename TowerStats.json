@@ -8004,6 +8004,46 @@
 
         ]
     },
+    "Toilet Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://132103240271361",
+        "Rarity": "Secret",
+        "PlacePrice": 11000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 28,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 16000,
+                "Range": 31,
+                "Damage": 9000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 1
+            }
+
+        ]
+    },
 
     "Popstar Chica": {
         "Type": "AOE + Damage Boost",
