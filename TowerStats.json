@@ -232,47 +232,46 @@
             }
         ]
     },
-    "Endo": {
-        "Type": "Support",
-        "Image": "rbxassetid://125317481606529",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.06
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.12
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.18
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.24
-            }
-        ]
+"Endo": {
+    "Type": "Support",
+    "Image": "rbxassetid://125317481606529",
+    "Rarity": "Secret",
+    "PlacePrice": 1000,
+    "NoEnemyAttack": true,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
     },
-  },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.06
+        },
+        {
+            "Price": 1700,
+            "Range": 15,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.12
+        },
+        {
+            "Price": 2200,
+            "Range": 15,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.18
+        },
+        {
+            "Price": 2500,
+            "Range": 15,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.24
+        }
+    ]
+}
