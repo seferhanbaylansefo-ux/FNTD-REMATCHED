@@ -41,7 +41,7 @@
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://140527230508988",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
@@ -79,7 +79,7 @@
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://136721412304949",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0.65,
         "Max": 5,
