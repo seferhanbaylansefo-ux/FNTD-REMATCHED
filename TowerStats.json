@@ -4854,6 +4854,58 @@
             }
         ]
     },
+"NewAccount": {
+        "Type": "AOE DMG + Slow",
+        "Image": "rbxassetid://93069997925572",
+        "Rarity": "Secret",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Radio Waves", "Description": "Slows all enemies in range by 30% and applies 15% anti regen for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 135,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 175,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            }
+        ]
+    },
 
 "Reactor Freddy": {
         "Type": "Continuous Splash",
