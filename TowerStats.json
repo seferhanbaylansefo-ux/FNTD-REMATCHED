@@ -5811,6 +5811,47 @@
         ]
     },
 
+"DecapBro": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://88718256090399",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15,
+        "Offset": 0.5,
+        "Max": 1,
+        "Passive": {"Name": "Hook and Line Rizz", "Description": "Rizzes in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.65 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 22222,
+                "Range": 28,
+                "Damage": 3750,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 33333,
+                "Range": 32,
+                "Damage": 4250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 5250,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+
      "Fazbear Mafia": {
         "Type": "Splash + Summon",
         "Image": "rbxassetid://131447165249179",
