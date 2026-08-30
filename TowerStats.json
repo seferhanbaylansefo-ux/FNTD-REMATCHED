@@ -11627,6 +11627,54 @@
             }
         ]
     },
+   "UtsmParty": {
+        "Type": "Nuke Stun + Passive",
+        "Image": "rbxassetid://85488516865802",
+        "Rarity": "Ultra",
+        "PlacePrice": 70000,
+        "Offset": 1,
+        "Max": 1,
+        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 25% health and bosses and imps at 12.5%. Attacks Stun enemies for 0.75s"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 78000,
+                "Cooldown": 4,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 92000,
+                "Cooldown": 3.8,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 90000,
+                "Range": 32,
+                "Damage": 110000,
+                "Cooldown": 3.7,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 100000,
+                "Range": 35,
+                "Damage": 126000,
+                "Cooldown": 3.6,
+                "Slow": 0,
+                "SlowTime": 0.75
+            }
+        ]
+    },
     "Spring Trooper": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
