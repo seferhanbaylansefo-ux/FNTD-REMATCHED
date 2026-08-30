@@ -4857,7 +4857,7 @@
 "NewAccount": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://93069997925572",
-        "Rarity": "Secret",
+        "Rarity": "Rematched",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -5814,7 +5814,7 @@
 "DecapBro": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://88718256090399",
-        "Rarity": "Nightmare",
+        "Rarity": "Ultra",
         "PlacePrice": 15,
         "Offset": 0.5,
         "Max": 1,
