@@ -15598,6 +15598,62 @@
             }
         ]
     },
+    "CeoOfFreddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://134159315360981",
+        "Rarity": "Exclusive",
+        "PlacePrice": 1500,
+        "Max": 1,
+        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3750,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 60000,
+                "Range": 40,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 70000,
+                "Range": 45,
+                "Damage": 7500,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            }
+        ]
+    },
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
