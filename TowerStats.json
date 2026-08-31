@@ -7250,6 +7250,62 @@
             }
         ]
     },
+    "Party Freddy": {
+        "Type": "Cone AOE Slow + Poison",
+        "Image": "rbxassetid://89631252203745",
+        "Rarity": "Exclusive",
+        "PlacePrice": 550,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Party Time!", "Description": "Slows enemies by 20% and deals +80% damage in poison"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.8,
+                "Poison": 500,
+                "PoisonLength": 1,
+                "Slow": 0.80,
+                "SlowTime": 3
+            },
+            {
+                "Price": 600,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 0.8,
+                "Poison": 500,
+                "PoisonLength": 1,
+                "Slow": 0.80,
+                "SlowTime": 3
+            },
+            {
+                "Price": 800,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 0.8,
+                "Poison": 500,
+                "PoisonLength": 1,
+                "Slow": 0.80,
+                "SlowTime": 3
+            },
+            {
+                "Price": 1000,
+                "Range": 28,
+                "Damage": 500,
+                "Cooldown": 0.8,
+                "Poison": 500,
+                "PoisonLength": 1,
+                "Slow": 0.80,
+                "SlowTime": 3
+            }
+        ]
+    },
     "President Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://133399431749556",
