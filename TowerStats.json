@@ -2718,58 +2718,6 @@
             }
         ]
     },
-    "Seferhan": {
-        "Type": "Splash",
-        "Image": "rbxassetid://84426150383635",
-        "Rarity": "Rematched",
-        "PlacePrice": 5000,
-        "Offset": 1.25,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 2.5
-            },
-
-            {
-                "Price": 10000,
-                "Range": 28,
-                "Damage": 1600,
-                "Cooldown": 2.4
-            },
-            {
-                "Price": 15000,
-                "Range": 31,
-                "Damage": 2200,
-                "Cooldown": 2.3
-            },
-            {
-                "Price": 20000,
-                "Range": 34,
-                "Damage": 2800,
-                "Cooldown": 2.2
-            },
-            {
-                "Price": 25000,
-                "Range": 37,
-                "Damage": 3400,
-                "Cooldown": 2.1
-            },
-            {
-                "Price": 30000,
-                "Range": 45,
-                "Damage": 4000,
-                "Cooldown": 2
-            }
-        ]
-    },
     "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18886487842",
@@ -4906,58 +4854,6 @@
             }
         ]
     },
-"NewAccount": {
-        "Type": "AOE DMG + Slow",
-        "Image": "rbxassetid://93069997925572",
-        "Rarity": "Rematched",
-        "PlacePrice": 750,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Radio Waves", "Description": "Slows all enemies in range by 30% and applies 15% anti regen for 1 second"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 120,
-                "Cooldown": 0.25,
-                "Slow": 0.7,
-                "Bleed": 0.85,
-                "BleedTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 22,
-                "Damage": 135,
-                "Cooldown": 0.25,
-                "Slow": 0.7,
-                "Bleed": 0.85,
-                "BleedTime": 1
-            },
-            {
-                "Price": 1000,
-                "Range": 24,
-                "Damage": 150,
-                "Cooldown": 0.25,
-                "Slow": 0.7,
-                "Bleed": 0.85,
-                "BleedTime": 1
-            },
-            {
-                "Price": 1250,
-                "Range": 25,
-                "Damage": 175,
-                "Cooldown": 0.25,
-                "Slow": 0.7,
-                "Bleed": 0.85,
-                "BleedTime": 1
-            }
-        ]
-    },
 
 "Reactor Freddy": {
         "Type": "Continuous Splash",
@@ -5830,47 +5726,6 @@
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.65 seconds."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 3250,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 22222,
-                "Range": 28,
-                "Damage": 3750,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 33333,
-                "Range": 32,
-                "Damage": 4250,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 44444,
-                "Range": 35,
-                "Damage": 5250,
-                "Cooldown": 0.25
-            }
-        ]
-    },
-
-"DecapBro": {
-        "Type": "AOE + Passive",
-        "Image": "rbxassetid://88718256090399",
-        "Rarity": "Ultra",
-        "PlacePrice": 11340,
-        "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "Hook and Line Rizz", "Description": "Rizzes in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.65 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7202,62 +7057,6 @@
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "FEAR", "Description": "Slows enemies by 20% and deals +80% damage in poison"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 250,
-                "Cooldown": 0.8,
-                "Poison": 500,
-                "PoisonLength": 1,
-                "Slow": 0.80,
-                "SlowTime": 3
-            },
-            {
-                "Price": 600,
-                "Range": 22,
-                "Damage": 350,
-                "Cooldown": 0.8,
-                "Poison": 500,
-                "PoisonLength": 1,
-                "Slow": 0.80,
-                "SlowTime": 3
-            },
-            {
-                "Price": 800,
-                "Range": 24,
-                "Damage": 400,
-                "Cooldown": 0.8,
-                "Poison": 500,
-                "PoisonLength": 1,
-                "Slow": 0.80,
-                "SlowTime": 3
-            },
-            {
-                "Price": 1000,
-                "Range": 28,
-                "Damage": 500,
-                "Cooldown": 0.8,
-                "Poison": 500,
-                "PoisonLength": 1,
-                "Slow": 0.80,
-                "SlowTime": 3
-            }
-        ]
-    },
-    "Party Freddy": {
-        "Type": "Cone AOE Slow + Poison",
-        "Image": "rbxassetid://89631252203745",
-        "Rarity": "Exclusive",
-        "PlacePrice": 550,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Party Time!", "Description": "Slows enemies by 20% and deals +80% damage in poison"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11683,54 +11482,6 @@
             }
         ]
     },
-   "UtsmParty": {
-        "Type": "Nuke Stun + Passive",
-        "Image": "rbxassetid://85488516865802",
-        "Rarity": "Ultra",
-        "PlacePrice": 70000,
-        "Offset": 1,
-        "Max": 1,
-        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 25% health and bosses and imps at 12.5%. Attacks Stun enemies for 0.75s"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 78000,
-                "Cooldown": 4,
-                "Slow": 0,
-                "SlowTime": 0.75
-            },
-            {
-                "Price": 80000,
-                "Range": 28,
-                "Damage": 92000,
-                "Cooldown": 3.8,
-                "Slow": 0,
-                "SlowTime": 0.75
-            },
-            {
-                "Price": 90000,
-                "Range": 32,
-                "Damage": 110000,
-                "Cooldown": 3.7,
-                "Slow": 0,
-                "SlowTime": 0.75
-            },
-            {
-                "Price": 100000,
-                "Range": 35,
-                "Damage": 126000,
-                "Cooldown": 3.6,
-                "Slow": 0,
-                "SlowTime": 0.75
-            }
-        ]
-    },
     "Spring Trooper": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
@@ -15547,62 +15298,6 @@
         "Image": "rbxassetid://101957224781287",
         "Rarity": "Apex",
         "PlacePrice": 45000,
-        "Max": 1,
-        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 3750,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
-            },
-            {
-                "Price": 60000,
-                "Range": 40,
-                "Damage": 6250,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
-            },
-            {
-                "Price": 70000,
-                "Range": 45,
-                "Damage": 7500,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
-            }
-        ]
-    },
-    "CeoOfFreddy": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://134159315360981",
-        "Rarity": "Exclusive",
-        "PlacePrice": 1500,
         "Max": 1,
         "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
         "hitboxOffset": {
