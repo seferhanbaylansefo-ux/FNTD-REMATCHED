@@ -2720,7 +2720,7 @@
     },
     "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://18886487842",
+        "Image": "rbxassetid://128177049592560",
         "Rarity": "Nightmare",
         "PlacePrice": 6000,
         "Offset": 0,
@@ -2772,7 +2772,7 @@
     },
     "Glitched Puppeteer": {
         "Type": "Splash",
-        "Image": "rbxassetid://18887217738",
+        "Image": "rbxassetid://118438282835526",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0.7,
@@ -2811,7 +2811,7 @@
     },
 "Glitched CupCake": {
         "Type": "AOE",
-        "Image": "rbxassetid://18888327109",
+        "Image": "rbxassetid://71242169536027",
         "Rarity": "Epic",
         "PlacePrice": 1500,
         "Offset": 0,
@@ -9350,6 +9350,74 @@
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
+        "Rarity": "Apex",
+        "PlacePrice": 17743,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds applies splash 55% Anti-Regen lasting 5s. All enemies in range are slowed by 60% and take 16.5% more damage."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 6500,
+                "Cooldown": 0.5,
+                "Slow": 0.4,
+                "SlowTime": 2,
+                "Wither": 1.165,
+                "ShinyWither": 1.165,
+                "WitherTime": 2,
+                "Bleed": 0.45,
+                "BleedTime": 5
+            },
+            {
+                "Price": 22222,
+                "Range": 34,
+                "Damage": 8500,
+                "Cooldown": 0.5,
+                "Slow": 0.4,
+                "SlowTime": 2,
+                "Wither": 1.165,
+                "ShinyWither": 1.165,
+                "WitherTime": 2,
+                "Bleed": 0.45,
+                "BleedTime": 5
+            },
+            {
+                "Price": 33333,
+                "Range": 37,
+                "Damage": 10500,
+                "Cooldown": 0.5,
+                "Slow": 0.4,
+                "SlowTime": 2,
+                "Wither": 1.165,
+                "ShinyWither": 1.165,
+                "WitherTime": 2,
+                "Bleed": 0.45,
+                "BleedTime": 5
+            },
+            {
+                "Price": 44444,
+                "Range": 40,
+                "Damage": 12500,
+                "Cooldown": 0.5,
+                "Slow": 0.4,
+                "SlowTime": 2,
+                "Wither": 1.165,
+                "ShinyWither": 1.165,
+                "WitherTime": 2,
+                "Bleed": 0.45,
+                "BleedTime": 5
+            }
+        ]
+    },
+    "Unwithered Astral Bonnie": {
+        "Type": "AOE Slow + Passive",
+        "Image": "rbxassetid://93310614764295",
         "Rarity": "Apex",
         "PlacePrice": 17743,
         "Offset": 0,
