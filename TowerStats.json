@@ -973,8 +973,8 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.25,
+                "Damage": 50000000000000,
+                "Cooldown": 0.0000001,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
                 "WitherTime": 1
