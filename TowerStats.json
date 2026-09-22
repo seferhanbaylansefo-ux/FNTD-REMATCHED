@@ -11926,6 +11926,54 @@
             }
         ]
     },
+    "Hacklord Freddy": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://82618421159651",
+        "Rarity": "Lord",
+        "PlacePrice": 404,
+        "Offset": 0,
+        "Max": 5,
+        "Passive": {"Name": "Hacks Of Eternity", "Description": "SUMMONS THE 3XPL0IT"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 120,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 777,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 999,
+                "Range": 22,
+                "Damage": 180,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1111,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Michael Afton": {
         "Type": "Trapper",
         "Image": "rbxassetid://114032714827197",
