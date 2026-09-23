@@ -1051,7 +1051,7 @@
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
-        "Max": 3,
+        "Max": 0,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
@@ -1099,7 +1099,7 @@
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
-        "Max": 3,
+        "Max": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1176,7 +1176,7 @@
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 5000,
-        "Max": 3,
+        "Max": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1215,7 +1215,7 @@
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 3,
+        "Max": 67,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1301,7 +1301,7 @@
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
-        "Max": 2,
+        "Max": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
