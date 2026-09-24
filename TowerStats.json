@@ -15409,6 +15409,63 @@
             }
         ]
     },
+	    "Yassin4250": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://134052825970100",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "Passive": {"Name": "Witchrot", "Description": "He Kind"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 52500,
+                "Cooldown": 3,
+                "Poison": 5000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 28568854846784676767844444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444,
+                "Damage": 56500,
+                "Cooldown": 6766,
+                "Poison": 6600,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 50000,
+                "Cooldown": 2.33,
+                "Poison": 8000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 55000,
+                "Cooldown": 2,
+                "Poison": 10000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            }
+        ]
+    },
+	
     "Glitchtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
