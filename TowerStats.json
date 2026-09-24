@@ -15411,10 +15411,10 @@
     },
 	    "Yassin4250": {
         "Type": "Nuke",
-        "Image": "rbxassetid://134052825970100",
-        "Rarity": "Secret",
-        "PlacePrice": 25000,
-        "Max": 2,
+        "Image": "rbxassetid://74447601469380",
+        "Rarity": "Apex",
+        "PlacePrice": 1,
+        "Max": 69,
         "Passive": {"Name": "Witchrot", "Description": "He Kind"},
         "hitboxOffset": {
             "X": 0,
