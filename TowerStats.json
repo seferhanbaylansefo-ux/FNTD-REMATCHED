@@ -1046,7 +1046,55 @@
             }
         ]
     },
-    "Scott": {
+            "Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://128604882971057",
+            "Rarity": "Apex",
+            "PlacePrice": 20000,
+            "Offset": 0.5,
+            "Max": 3,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 2000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 25000,
+                    "Range": 32,
+                    "Damage": 2400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 2800,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 40000,
+                    "Range": 40,
+                    "Damage": 3200,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                }
+            ]
+        },
+        "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
         "Rarity": "Secret",
