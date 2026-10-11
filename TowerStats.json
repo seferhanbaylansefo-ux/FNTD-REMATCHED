@@ -1348,10 +1348,10 @@
     "Clowntrap": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Clown Show", "Description": "Attacks Stun enemies for 0.5 seconds and apply 10% Wither for 1.5 seconds."},
         "hitboxOffset": {
             "X": 0,
