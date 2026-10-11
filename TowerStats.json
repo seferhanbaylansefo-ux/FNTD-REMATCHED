@@ -1046,6 +1046,54 @@
             }
         ]
     },
+    "Jack O Chica": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://127828338385715",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 3
+                
+            },
+            {
+                "Price": 4000,
+                "Range": 24,
+                "Damage": 150,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.85
+            },
+            {
+                "Price": 5000,
+                "Range": 27,
+                "Damage": 200,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 6000,
+                "Range": 30,
+                "Damage": 300,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.5
+            }
+        ]
+    },
         "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
