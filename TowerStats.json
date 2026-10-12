@@ -1049,7 +1049,7 @@
   "Shadow Chica": {
         "Type": "Support",
         "Image": "rbxassetid://6937742263",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1500,
         "NoEnemyAttack": true,
         "Max": 1,
@@ -1130,9 +1130,9 @@
         "Shadow Withered Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://6937742263",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1146,19 +1146,19 @@
                 "Cooldown": 0.5
             },
             {
-                "Price": 1400,
+                "Price": 14000,
                 "Range": 18,
                 "Damage": 250,
                 "Cooldown": 0.35
             },
             {
-                "Price": 2000,
+                "Price": 20000,
                 "Range": 22,
                 "Damage": 300,
                 "Cooldown": 0.25
             },
             {
-                "Price": 2500,
+                "Price": 25000,
                 "Range": 25,
                 "Damage": 400,
                 "Cooldown": 0.2
