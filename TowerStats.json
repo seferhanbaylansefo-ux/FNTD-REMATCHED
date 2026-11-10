@@ -309,10 +309,10 @@
         ]
     },
     "Shadow Bonnie": {
-        "Type": "AOE",
+        "Type": "AOE + Tagger",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
-        "PlacePrice": 25000,
+        "PlacePrice": 5000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -323,26 +323,26 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 90,
+                "Cooldown": 0.25
             },
             {
-                "Price": 35000,
+                "Price": 7500,
                 "Range": 15,
-                "Damage": 35,
-                "Cooldown": 0.05
+                "Damage": 125,
+                "Cooldown": 0.25
             },
             {
-                "Price": 45000,
+                "Price": 10000,
                 "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 165,
+                "Cooldown": 0.25
             },
             {
-                "Price": 60000,
+                "Price": 15000,
                 "Range": 20,
-                "Damage": 65,
-                "Cooldown": 0.05
+                "Damage": 200,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -767,25 +767,64 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 30,
-                "Cooldown": 0.3
+                "Cooldown": 0.25
             },
             {
                 "Price": 1200,
                 "Range": 18,
                 "Damage": 35,
-                "Cooldown": 0.3
+                "Cooldown": 0.225
             },
             {
                 "Price": 1600,
                 "Range": 22,
                 "Damage": 45,
-                "Cooldown": 0.3
+                "Cooldown": 0.2
             },
             {
                 "Price": 2200,
                 "Range": 25,
                 "Damage": 60,
-                "Cooldown": 0.3
+                "Cooldown": 0.15
+            }
+        ]
+    },
+      "JJ": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://83426992973072",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 1400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 1600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 1800,
+                "Cooldown": 2
             }
         ]
     },
@@ -1005,6 +1044,102 @@
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
                 "WitherTime": 1
+            }
+        ]
+    },
+        "Paperpals": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://88743014752394",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 65%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 150,
+                "Cooldown": 0.5,
+                "Slow": 0.95,
+                "SlowTime": 3
+            },
+            {
+                "Price": 3500,
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 0.5,
+                "Slow": 0.9,
+                "SlowTime": 3
+            },
+            {
+                "Price": 4500,
+                "Range": 33,
+                "Damage": 350,
+                "Cooldown": 0.5,
+                "Slow": 0.85,
+                "SlowTime": 1
+            },
+            {
+                "Price": 5500,
+                "Range": 37,
+                "Damage": 400,
+                "Cooldown": 0.5,
+                "Slow": 0.8,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Crying Soul": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://123447611843908",
+        "Rarity": "Secret",
+        "PlacePrice": 350,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 25%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 450,
+                "Range": 24,
+                "Damage": 130,
+                "Cooldown": 0.9,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 26,
+                "Damage": 140,
+                "Cooldown": 0.8,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 750,
+                "Range": 28,
+                "Damage": 150,
+                "Cooldown": 0.75,
+                "Slow": 0.75,
+                "SlowTime": 1
             }
         ]
     },
