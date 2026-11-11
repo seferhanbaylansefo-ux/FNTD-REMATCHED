@@ -578,6 +578,93 @@
             }
         ]
     },
+     "Amalgamination": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://114549095168065",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 333,
+                "Cooldown": 0.33
+            },
+            {
+                "Price": 45000,
+                "Range": 26,
+                "Damage": 400,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Fan": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://70879844361967",
+        "Rarity": "Epic",
+        "PlacePrice": 250,
+        "Offset": -1,
+        "Max": 2,
+        "Passive": {"Name": "Fan", "Description": "Attacks slow enemies by 30%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 300,
+                "Range": 24,
+                "Damage": 50,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 400,
+                "Range": 25,
+                "Damage": 65,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 500,
+                "Range": 27,
+                "Damage": 80,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
